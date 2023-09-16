@@ -24,6 +24,7 @@ The OilDrillAR project is a mobile application that leverages augmented reality 
 - Detailed 3D models and animations for various drilling equipment components.
 - Interactive and educational content to enhance understanding.
 - User-friendly interface for easy navigation.
+![Description de la capture d'écran](chemin/vers/le/répertoire/screenshot_filename.png)
 
 ## Getting Started
 
