@@ -1,8 +1,8 @@
-# AR_Drilling
 
-# OilDrillAR - Augmented Reality Oil Drilling Equipment Viewer
 
-![OilDrillAR Logo](link-to-your-logo-image.png)
+# AR_Drilling - Augmented Reality Oil Drilling Equipment Viewer
+
+![AR_Drilling Logo](link-to-your-logo-image.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -27,17 +27,17 @@ The OilDrillAR project is a mobile application that leverages augmented reality 
 
 ## Getting Started
 
-Follow these instructions to get the OilDrillAR project up and running on your local machine.
+Follow these instructions to get the AR_Drilling project up and running on your local machine.
 
 ### Prerequisites
 
-- [Unity3D](https://unity.com/) - Version X.X or higher.
-- [ARCore](https://developers.google.com/ar) or [ARKit](https://developer.apple.com/arkit/) compatible device.
-- [Git](https://git-scm.com/) - Version X.X or higher.
+- [A](https://unity.com/) - Version X.X or higher.
+- [ARCore](https://developers.google.com/ar)  compatible device.
+
 
 ### Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/OilDrillAR.git
+   [git clone https://github.com/your-username/OilDrillAR.git](https://github.com/SouidiAmine/AR_Drilling.git)https://github.com/SouidiAmine/AR_Drilling.git
