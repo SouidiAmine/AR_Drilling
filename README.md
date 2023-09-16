@@ -31,8 +31,9 @@ Follow these instructions to get the AR_Drilling project up and running on your 
 
 ### Prerequisites
 
-- [A](https://unity.com/) - Version X.X or higher.
+-  [Android Studio](https://developer.android.com/studio)
 - [ARCore](https://developers.google.com/ar)  compatible device.
+
 
 
 ### Installation
