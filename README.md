@@ -13,7 +13,7 @@
 
 ## Introduction
 
-The OilDrillAR project is a mobile application that leverages augmented reality technology to help users understand and visualize oil drilling equipment. It provides an interactive and immersive experience for learning about the intricacies of oil drilling, making it an excellent tool for students, professionals, and anyone interested in the oil and gas industry.
+The AR_Drilling project is a mobile application that leverages augmented reality technology to help users understand and visualize oil drilling equipment. It provides an interactive and immersive experience for learning about the intricacies of oil drilling, making it an excellent tool for students, professionals, and anyone interested in the oil and gas industry.
 
 ## Features
 
