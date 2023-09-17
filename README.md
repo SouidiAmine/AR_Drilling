@@ -1,6 +1,7 @@
 
 
 # AR_Drilling - Augmented Reality Oil Drilling Equipment Viewer
+![screen](https://github.com/SouidiAmine/AR_Drilling/assets/65171815/71e2daac-3b63-4b69-a8ca-a11a6c7493ce)
 
 ## Table of Contents
 - [Introduction](#introduction)
