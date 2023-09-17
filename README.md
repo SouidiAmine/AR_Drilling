@@ -41,4 +41,4 @@ Follow these instructions to get the AR_Drilling project up and running on your 
 1. Clone the repository:
 
    ```bash
-   [git clone [https://github.com/your-username/OilDrillAR.git](https://github.com/SouidiAmine/AR_Drilling.git)](https://github.com/SouidiAmine/AR_Drilling.git)https://github.com/SouidiAmine/AR_Drilling.git
+[Clone this repository](https://github.com/SouidiAmine/AR_Drilling.git)
