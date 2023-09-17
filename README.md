@@ -2,8 +2,6 @@
 
 # AR_Drilling - Augmented Reality Oil Drilling Equipment Viewer
 
-![AR_Drilling Logo](link-to-your-logo-image.png)
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
@@ -24,7 +22,7 @@ The OilDrillAR project is a mobile application that leverages augmented reality 
 - Detailed 3D models and animations for various drilling equipment components.
 - Interactive and educational content to enhance understanding.
 - User-friendly interface for easy navigation.
-![Description de la capture d'écran](chemin/vers/le/répertoire/screenshot_filename.png)
+
 
 ## Getting Started
 
@@ -42,4 +40,4 @@ Follow these instructions to get the AR_Drilling project up and running on your 
 1. Clone the repository:
 
    ```bash
-   [git clone https://github.com/your-username/OilDrillAR.git](https://github.com/SouidiAmine/AR_Drilling.git)https://github.com/SouidiAmine/AR_Drilling.git
+   [git clone [https://github.com/your-username/OilDrillAR.git](https://github.com/SouidiAmine/AR_Drilling.git)](https://github.com/SouidiAmine/AR_Drilling.git)https://github.com/SouidiAmine/AR_Drilling.git
