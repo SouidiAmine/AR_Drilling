@@ -37,8 +37,4 @@ Follow these instructions to get the AR_Drilling project up and running on your 
 
 
 ### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/SouidiAmine/AR_Drilling.git
+[Clone this repository](https://github.com/SouidiAmine/AR_Drilling.git)
